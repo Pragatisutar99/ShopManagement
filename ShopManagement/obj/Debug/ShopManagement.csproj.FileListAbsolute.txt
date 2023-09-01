@@ -1,0 +1,37 @@
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Form1.resources
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FrmProdut.resources
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FrmSize.resources
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FrmType.resources
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Form2.resources
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FrmLogin.resources
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Order.resources
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Admin_login.resources
+C:\Users\Admin\Documents\AdoProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Offer.resources
+D:\CRM Project\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+D:\CRM Project\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+D:\CRM Project\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+D:\CRM Project\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.AssemblyReference.cache
+D:\CRM Project\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Admin_login.resources
+D:\CRM Project\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Form1.resources
+D:\CRM Project\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FrmLogin.resources
+D:\CRM Project\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FrmProdut.resources
+D:\CRM Project\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FrmSize.resources
+D:\CRM Project\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FrmType.resources
+D:\CRM Project\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Offer.resources
+D:\CRM Project\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Order.resources
+D:\CRM Project\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+D:\CRM Project\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Form2.resources
+D:\CRM Project\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.cache
+D:\CRM Project\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.CoreCompileInputs.cache
+D:\CRM Project\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+D:\CRM Project\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
